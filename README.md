@@ -6,13 +6,12 @@
 </p>
 
 
-  Hello 👋😊! I'm **[Christony Duyapat](https://duyapat-christony.github.io)**, your delightfully boring but **occasionally** entertaining math teacher 👨‍🏫 and wannabe data detective 📊. When you see me glued to my laptop or phone with my study mode on, I am just watching random reels or memes and pretending they’re very educational.
-
-  I started diving into data analytics to add a little spice to my otherwise boring life. I’m starting to realize it might be a bit too spicy and demanding for my pretty small brain capacity! 🤯
+  Hello 👋😊! I'm **[Christony Duyapat](https://duyapat-christony.github.io)**, your delightfully boring but **occasionally** entertaining math teacher 👨‍🏫 and wannabe data detective 📊. I started diving into data analytics to add a little spice to my otherwise boring life. I’m starting to realize it might be a bit too spicy and demanding for my pretty small brain capacity! 🤯
 
 <br>
 
 > [!NOTE]
+> When you see me glued to my laptop or phone with my study mode on, I am just watching random reels or memes and pretending they’re very educational.<br><br>
 > Fun fact: I once tried to count how many times I blink in a day. Turns out, I am terrible at counting but I guess I’m pretty good at blinking!
 
 > [!TIP]
