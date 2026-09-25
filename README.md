@@ -22,5 +22,7 @@
 > [!WARNING]
 > If I seem to be zoning out, it's not that I’m ignoring you. I’m just cringing over some embarrassing moments from years ago. Please cut me some slack! 🫣
 
+<!-- 
 > [!CAUTION]
 > If you’re hoping for wild adventures, you might need to lower your expectations. I’m just a regular boring person. 😴
+ -->
